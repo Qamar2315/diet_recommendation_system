@@ -1,6 +1,6 @@
-# Personalized Diet Plan Recommender
+# Diet Recommendation System
 
-The Personalized Diet Plan Recommender is a web application that aims to provide tailored meal plans based on individual dietary requirements. It leverages a combination of React, Node.js, Python, and Prolog to deliver a seamless and intelligent solution for promoting healthy eating habits.
+The Diet Recommendation System is a web application that aims to provide tailored meal plans based on individual dietary requirements. It leverages a combination of React, Node.js, Python, and Prolog to deliver a seamless and intelligent solution for promoting healthy eating habits.
 
 ## Table of Contents
 - [Introduction](#introduction)
